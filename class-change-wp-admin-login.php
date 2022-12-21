@@ -181,7 +181,7 @@ if ( defined( 'ABSPATH' ) && ! class_exists( 'Change_WP_Admin_Login' ) ) {
 
 			// اضافه کردن فیلد ریدایرکت
 			add_settings_field(
-				'rwl_redirect_field', __( 'ریدایرکت ، درصورت وارد کردن آدرس پیش فرض', 'change-wp-admin-login' ),
+				'rwl_redirect_field', __( 'تغییر مسیر ، درصورت وارد کردن آدرس پیش فرض', 'change-wp-admin-login' ),
 				array( $this, 'rwl_redirect_func' ),
 				'permalink',
 				'change-wp-admin-login-section'

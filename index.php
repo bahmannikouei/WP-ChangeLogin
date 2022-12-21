@@ -2,7 +2,7 @@
  /*
  Plugin Name: Change Login
  Description: Change wp-login wordpress
- Version: 1.0.0
+ Version: 1.2.0
  Author:Bahman Nikouei
  Author URI: https://bahman.app
  Text Domain: Bahman.app
